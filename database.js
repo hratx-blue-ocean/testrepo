@@ -1,1 +1,1 @@
-const 'pg' = require('pg');
+const pg = require('pg');
